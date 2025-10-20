@@ -1,0 +1,36 @@
+# Build artifacts
+out/
+cache/
+broadcast/
+
+# Forge dependencies
+lib/
+
+# Environment files
+.env
+.env.*
+
+# Windows metadata
+*.Zone.Identifier
+
+# macOS
+.DS_Store
+
+# Node.js (opcional, si integrás herramientas JS)
+node_modules/
+
+# VSCode
+.vscode/
+
+# Remapping file (si no lo usás manualmente)
+remappings.txt
+
+# Logs
+*.log
+
+#github
+.github/
+.gitmodules
+
+#lock
+*.lock
